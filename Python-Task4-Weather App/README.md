@@ -3,7 +3,7 @@ ____________________________________________________________
 🔗Overview
 ________________________________________________
  This project is a simple Weather Application developed using Python.
- The application fetches real-time weather information of any city using the OpenWeatherMap API and displays details like temperature, humidity, wind speed, pressure, and weather condition.
+ The application fetches real-time weather information of any city using the OpenWeatherMap API and displays details like temperature, humidity, wind speed, pressure, and weather  condition.
 _____________________________________________________________
 🔗Features
 ________________________________________________________
