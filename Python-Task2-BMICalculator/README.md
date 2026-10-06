@@ -35,6 +35,19 @@
   
   Health Category
 
-🔗Output Screenshots
-  UnderWeight
+🔗Output Screenshot
+  
+🔗UnderWeight
+
+  ![Underweight](underweight.png)
+
+🔗 Normal Weight
+   ![Normal Weight](normal.png)
+
+🔗 Overweight
+   ![Overweight](overweight.png)
+
+🔗 Obesity
+   ![Obesity](obesity.png)
+
   
