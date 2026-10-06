@@ -44,11 +44,9 @@ ______________________________________________________________________
 🔗Output Screenshots
 __________________________________________________________________
 
-🔗 Main Weather Interface
+🔗 Main Weather Details
 ![Main Weather Interface](WeatherDetail.png)
 
-🔗 Weather Details
-![Weather Details](DisplayDetail.png)
 _________________________________________________________________
 🔗Author
 ______________________________________________________________
